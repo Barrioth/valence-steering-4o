@@ -1,0 +1,7 @@
+torch>=2.2
+transformers>=4.56
+accelerate
+matplotlib
+numpy
+# optional, NVIDIA only, for LOAD_4BIT=1:
+# bitsandbytes
